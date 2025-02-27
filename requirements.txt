@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+sqlite3
+plotly
+scikit-learn
+ydata-profiling
+google-generativeai
