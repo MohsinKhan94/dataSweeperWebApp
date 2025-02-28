@@ -5,3 +5,4 @@ plotly
 scikit-learn
 ydata-profiling
 google-generativeai
+setuptools
